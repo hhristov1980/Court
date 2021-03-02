@@ -1,0 +1,108 @@
+Chronology of CRIMINAL 6
+Judge - Honorable Judge 4
+State against Defendant 10
+Prosecutor: Prosecutor 2
+List of defendant layers:
+Layer 9
+List of jury:
+Juror 1
+Juror 9
+Juror 2
+Juror 13
+Juror 8
+Juror 6
+Juror 12
+Juror 4
+Juror 11
+Juror 5
+Juror 3
+Juror 7
+Juror 10
+The PROSECUTOR is asking questions
+Prosecutor 2 asked Defendant 10
+Defendant 10 answer
+Prosecutor 2 asked Defendant 10
+Defendant 10 answer
+Prosecutor 2 asked Defendant 10
+Defendant 10 answer
+Prosecutor 2 asked Defendant 10
+Defendant 10 answer
+Prosecutor 2 asked Defendant 10
+Defendant 10 answer
+Prosecutor 2 asked Witness 3
+Witness 3 answer
+Prosecutor 2 asked Witness 3
+Witness 3 answer
+Prosecutor 2 asked Witness 3
+Witness 3 answer
+Prosecutor 2 asked Witness 3
+Witness 3 answer
+Prosecutor 2 asked Witness 3
+Witness 3 answer
+Prosecutor 2 asked Witness 2
+Witness 2 answer
+Prosecutor 2 asked Witness 2
+Witness 2 answer
+Prosecutor 2 asked Witness 2
+Witness 2 answer
+Prosecutor 2 asked Witness 2
+Witness 2 answer
+Prosecutor 2 asked Witness 2
+Witness 2 answer
+Prosecutor 2 asked Witness 1
+Witness 1 answer
+Prosecutor 2 asked Witness 1
+Witness 1 answer
+Prosecutor 2 asked Witness 1
+Witness 1 answer
+Prosecutor 2 asked Witness 1
+Witness 1 answer
+Prosecutor 2 asked Witness 1
+Witness 1 answer
+The layer of Defendant 10 is asking questions
+Layer 9 asked Witness 3
+Witness 3 answer
+Layer 9 asked Witness 3
+Witness 3 answer
+Layer 9 asked Witness 3
+Witness 3 answer
+Layer 9 asked Witness 3
+Witness 3 answer
+Layer 9 asked Witness 3
+Witness 3 answer
+Layer 9 asked Witness 2
+Witness 2 answer
+Layer 9 asked Witness 2
+Witness 2 answer
+Layer 9 asked Witness 2
+Witness 2 answer
+Layer 9 asked Witness 2
+Witness 2 answer
+Layer 9 asked Witness 2
+Witness 2 answer
+Layer 9 asked Witness 1
+Witness 1 answer
+Layer 9 asked Witness 1
+Witness 1 answer
+Layer 9 asked Witness 1
+Witness 1 answer
+Layer 9 asked Witness 1
+Witness 1 answer
+Layer 9 asked Witness 1
+Witness 1 answer
+Jury is voting: 
+Juror 1 votes Not Guilty
+Juror 9 votes Not Guilty
+Juror 2 votes Guilty
+Juror 13 votes Guilty
+Juror 8 votes Guilty
+Juror 6 votes Guilty
+Juror 12 votes Not Guilty
+Juror 4 votes Guilty
+Juror 11 votes Guilty
+Juror 5 votes Not Guilty
+Juror 3 votes Not Guilty
+Juror 7 votes Guilty
+Juror 10 votes Not Guilty
+According to the jury, the defendant Defendant 10 is Guilty
+Sentence: 27 years in jail

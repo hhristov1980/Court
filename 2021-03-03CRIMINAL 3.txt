@@ -1,0 +1,108 @@
+Chronology of CRIMINAL 3
+Judge - Honorable Judge 1
+State against Defendant 19
+Prosecutor: Prosecutor 9
+List of defendant layers:
+Layer 18
+List of jury:
+Juror 7
+Juror 4
+Juror 10
+Juror 6
+Juror 9
+Juror 2
+Juror 5
+Juror 11
+Juror 8
+Juror 13
+Juror 1
+Juror 12
+Juror 3
+The PROSECUTOR is asking questions
+Prosecutor 9 asked Defendant 19
+Defendant 19 answer
+Prosecutor 9 asked Defendant 19
+Defendant 19 answer
+Prosecutor 9 asked Defendant 19
+Defendant 19 answer
+Prosecutor 9 asked Defendant 19
+Defendant 19 answer
+Prosecutor 9 asked Defendant 19
+Defendant 19 answer
+Prosecutor 9 asked Witness 2
+Witness 2 answer
+Prosecutor 9 asked Witness 2
+Witness 2 answer
+Prosecutor 9 asked Witness 2
+Witness 2 answer
+Prosecutor 9 asked Witness 2
+Witness 2 answer
+Prosecutor 9 asked Witness 2
+Witness 2 answer
+Prosecutor 9 asked Witness 3
+Witness 3 answer
+Prosecutor 9 asked Witness 3
+Witness 3 answer
+Prosecutor 9 asked Witness 3
+Witness 3 answer
+Prosecutor 9 asked Witness 3
+Witness 3 answer
+Prosecutor 9 asked Witness 3
+Witness 3 answer
+Prosecutor 9 asked Witness 1
+Witness 1 answer
+Prosecutor 9 asked Witness 1
+Witness 1 answer
+Prosecutor 9 asked Witness 1
+Witness 1 answer
+Prosecutor 9 asked Witness 1
+Witness 1 answer
+Prosecutor 9 asked Witness 1
+Witness 1 answer
+The layer of Defendant 19 is asking questions
+Layer 18 asked Witness 2
+Witness 2 answer
+Layer 18 asked Witness 2
+Witness 2 answer
+Layer 18 asked Witness 2
+Witness 2 answer
+Layer 18 asked Witness 2
+Witness 2 answer
+Layer 18 asked Witness 2
+Witness 2 answer
+Layer 18 asked Witness 3
+Witness 3 answer
+Layer 18 asked Witness 3
+Witness 3 answer
+Layer 18 asked Witness 3
+Witness 3 answer
+Layer 18 asked Witness 3
+Witness 3 answer
+Layer 18 asked Witness 3
+Witness 3 answer
+Layer 18 asked Witness 1
+Witness 1 answer
+Layer 18 asked Witness 1
+Witness 1 answer
+Layer 18 asked Witness 1
+Witness 1 answer
+Layer 18 asked Witness 1
+Witness 1 answer
+Layer 18 asked Witness 1
+Witness 1 answer
+Jury is voting: 
+Juror 7 votes Guilty
+Juror 4 votes Guilty
+Juror 10 votes Not Guilty
+Juror 6 votes Guilty
+Juror 9 votes Guilty
+Juror 2 votes Not Guilty
+Juror 5 votes Guilty
+Juror 11 votes Not Guilty
+Juror 8 votes Not Guilty
+Juror 13 votes Guilty
+Juror 1 votes Guilty
+Juror 12 votes Not Guilty
+Juror 3 votes Not Guilty
+According to the jury, the defendant Defendant 19 is Guilty
+Sentence: 40 years in jail

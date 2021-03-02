@@ -1,0 +1,79 @@
+Chronology of CIVIL 5
+Judge - Honorable Judge 3
+Accuser 6 against Defendant 5
+List of accuser layers:
+Layer 13
+List of defendant layers:
+Layer 20
+List of jury:
+Juror 1
+Juror 2
+Juror 3
+The layer of Defendant 5 is asking questions
+Layer 13 asked Witness 1
+Witness 1 answer
+Layer 13 asked Witness 1
+Witness 1 answer
+Layer 13 asked Witness 1
+Witness 1 answer
+Layer 13 asked Witness 1
+Witness 1 answer
+Layer 13 asked Witness 1
+Witness 1 answer
+Layer 13 asked Witness 2
+Witness 2 answer
+Layer 13 asked Witness 2
+Witness 2 answer
+Layer 13 asked Witness 2
+Witness 2 answer
+Layer 13 asked Witness 2
+Witness 2 answer
+Layer 13 asked Witness 2
+Witness 2 answer
+Layer 13 asked Witness 3
+Witness 3 answer
+Layer 13 asked Witness 3
+Witness 3 answer
+Layer 13 asked Witness 3
+Witness 3 answer
+Layer 13 asked Witness 3
+Witness 3 answer
+Layer 13 asked Witness 3
+Witness 3 answer
+The layer of Defendant 5 is asking questions
+Layer 20 asked Witness 1
+Witness 1 answer
+Layer 20 asked Witness 1
+Witness 1 answer
+Layer 20 asked Witness 1
+Witness 1 answer
+Layer 20 asked Witness 1
+Witness 1 answer
+Layer 20 asked Witness 1
+Witness 1 answer
+Layer 20 asked Witness 2
+Witness 2 answer
+Layer 20 asked Witness 2
+Witness 2 answer
+Layer 20 asked Witness 2
+Witness 2 answer
+Layer 20 asked Witness 2
+Witness 2 answer
+Layer 20 asked Witness 2
+Witness 2 answer
+Layer 20 asked Witness 3
+Witness 3 answer
+Layer 20 asked Witness 3
+Witness 3 answer
+Layer 20 asked Witness 3
+Witness 3 answer
+Layer 20 asked Witness 3
+Witness 3 answer
+Layer 20 asked Witness 3
+Witness 3 answer
+Jury is voting: 
+Juror 1 votes Not Guilty
+Juror 2 votes Guilty
+Juror 3 votes Guilty
+According to the jury, the defendant Defendant 5 is Guilty
+Sentence: 16 years in jail

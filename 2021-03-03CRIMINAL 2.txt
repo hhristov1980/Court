@@ -1,0 +1,108 @@
+Chronology of CRIMINAL 2
+Judge - Honorable Judge 5
+State against Defendant 12
+Prosecutor: Prosecutor 4
+List of defendant layers:
+Layer 1
+List of jury:
+Juror 3
+Juror 7
+Juror 6
+Juror 11
+Juror 5
+Juror 9
+Juror 1
+Juror 8
+Juror 13
+Juror 12
+Juror 4
+Juror 2
+Juror 10
+The PROSECUTOR is asking questions
+Prosecutor 4 asked Defendant 12
+Defendant 12 answer
+Prosecutor 4 asked Defendant 12
+Defendant 12 answer
+Prosecutor 4 asked Defendant 12
+Defendant 12 answer
+Prosecutor 4 asked Defendant 12
+Defendant 12 answer
+Prosecutor 4 asked Defendant 12
+Defendant 12 answer
+Prosecutor 4 asked Witness 3
+Witness 3 answer
+Prosecutor 4 asked Witness 3
+Witness 3 answer
+Prosecutor 4 asked Witness 3
+Witness 3 answer
+Prosecutor 4 asked Witness 3
+Witness 3 answer
+Prosecutor 4 asked Witness 3
+Witness 3 answer
+Prosecutor 4 asked Witness 1
+Witness 1 answer
+Prosecutor 4 asked Witness 1
+Witness 1 answer
+Prosecutor 4 asked Witness 1
+Witness 1 answer
+Prosecutor 4 asked Witness 1
+Witness 1 answer
+Prosecutor 4 asked Witness 1
+Witness 1 answer
+Prosecutor 4 asked Witness 2
+Witness 2 answer
+Prosecutor 4 asked Witness 2
+Witness 2 answer
+Prosecutor 4 asked Witness 2
+Witness 2 answer
+Prosecutor 4 asked Witness 2
+Witness 2 answer
+Prosecutor 4 asked Witness 2
+Witness 2 answer
+The layer of Defendant 12 is asking questions
+Layer 1 asked Witness 3
+Witness 3 answer
+Layer 1 asked Witness 3
+Witness 3 answer
+Layer 1 asked Witness 3
+Witness 3 answer
+Layer 1 asked Witness 3
+Witness 3 answer
+Layer 1 asked Witness 3
+Witness 3 answer
+Layer 1 asked Witness 1
+Witness 1 answer
+Layer 1 asked Witness 1
+Witness 1 answer
+Layer 1 asked Witness 1
+Witness 1 answer
+Layer 1 asked Witness 1
+Witness 1 answer
+Layer 1 asked Witness 1
+Witness 1 answer
+Layer 1 asked Witness 2
+Witness 2 answer
+Layer 1 asked Witness 2
+Witness 2 answer
+Layer 1 asked Witness 2
+Witness 2 answer
+Layer 1 asked Witness 2
+Witness 2 answer
+Layer 1 asked Witness 2
+Witness 2 answer
+Jury is voting: 
+Juror 3 votes Not Guilty
+Juror 7 votes Not Guilty
+Juror 6 votes Guilty
+Juror 11 votes Not Guilty
+Juror 5 votes Not Guilty
+Juror 9 votes Guilty
+Juror 1 votes Guilty
+Juror 8 votes Guilty
+Juror 13 votes Not Guilty
+Juror 12 votes Guilty
+Juror 4 votes Not Guilty
+Juror 2 votes Guilty
+Juror 10 votes Guilty
+According to the jury, the defendant Defendant 12 is Guilty
+Sentence: 31 years in jail
